@@ -1,4 +1,4 @@
-# Jobsearch-Automation
+# Jobsearch_Automation
 
 
 ## Project Overview:
