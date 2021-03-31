@@ -14,6 +14,6 @@ In this project I used the BeautifoulSoup library to scratch jobs on a website. 
 
 ## Resources:
 
-* https://towardsdatascience.com/automating-my-job-search-with-python-ee2b465c6a8f (This article piqued my interest in automating my job search.)
+* https://towardsdatascience.com/automating-my-job-search-with-python-ee2b465c6a8f (This article piqued my interest in automating my job search and helped me with the code.)
 
 * https://www.crummy.com/software/BeautifulSoup/bs4/doc/ (The documentation of the BeautifulSoup)
